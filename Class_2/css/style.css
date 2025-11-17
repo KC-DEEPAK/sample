@@ -1,0 +1,22 @@
+h1{
+  color: blue;
+  width: 200px;
+  font-size: 50;
+  background-color: red;
+  font-style:italic;
+  text-align: center;
+  padding: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 20;
+}
+p{
+  color: pink;
+  font-style: bold;
+  background-color: black;
+  font-size: 40px;
+  text-align: center;
+  padding: 70px;
+}
